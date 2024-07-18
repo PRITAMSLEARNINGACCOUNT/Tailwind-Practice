@@ -1,0 +1,37 @@
+{
+  "name": "square_bracket_notation",
+  "version": "1.0.0",
+  "description": "This is about tailwind CSS square bracket notation",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [
+    "Tailwind",
+    "tailwind",
+    "CSS",
+    "css",
+    "Cascading",
+    "Style",
+    "Sheets",
+    "cascading",
+    "style",
+    "sheets",
+    "Tailwind",
+    "CSS",
+    "tailwind",
+    "css",
+    "tailwind",
+    "CSS",
+    "Tailwind",
+    "css"
+  ],
+  "author": "PRITAMSTECH",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.6",
+    "vite": "^5.3.4"
+  }
+}

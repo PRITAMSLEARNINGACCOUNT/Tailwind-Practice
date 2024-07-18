@@ -1,0 +1,31 @@
+{
+  "name": "responsiveness_using_tailwind_css",
+  "version": "1.0.0",
+  "description": "This is about reponsiveness in tailwind CSS which discovers concepts about breakpoints in Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [
+    "Tailwind",
+    "tailwind",
+    "tailwind",
+    "CSS",
+    "tailwind",
+    "css",
+    "CSS",
+    "css",
+    "Tailwind",
+    "CSS",
+    "Reponsiveness",
+    "responsiveness"
+  ],
+  "author": "PRITAMSTECH",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.6",
+    "vite": "^5.3.4"
+  }
+}

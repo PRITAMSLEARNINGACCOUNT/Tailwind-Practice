@@ -1,0 +1,34 @@
+{
+  "name": "different_states_in_tailwind_css",
+  "version": "1.0.0",
+  "description": "This is about demonstrating different states in tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [
+    "Tailwind",
+    "taiwind",
+    "css",
+    "tailwind",
+    "CSS",
+    "tailwind",
+    "css",
+    "Tailwind",
+    "css",
+    "Cascading",
+    "Style",
+    "Sheets",
+    "cascading",
+    "style",
+    "sheets"
+  ],
+  "author": "PRITAMSTECH",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.6",
+    "vite": "^5.3.4"
+  }
+}

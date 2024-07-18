@@ -1,0 +1,24 @@
+{
+  "name": "first_tailwind_website",
+  "version": "1.0.0",
+  "description": "This is a first tailwind website (Landing Page)",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [
+    "Tailwind",
+    "CSS",
+    "Tailwind CSS"
+  ],
+  "author": "PRITAMSTECH",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.6"
+  },
+  "dependencies": {
+    "vite": "^5.3.4"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "tailwind_customization_and_production_optimization",
+  "version": "1.0.0",
+  "description": "This is about tailwind CSS customization and building a production level build using vite for deploying a tailwind website to production",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "keywords": [
+    "Tailwind",
+    "tailwind",
+    "Tailwind",
+    "CSS",
+    "tailwind",
+    "css",
+    "tailwind",
+    "CSS",
+    "Tailwind",
+    "css",
+    "Cascading",
+    "Style",
+    "Sheets",
+    "cascading",
+    "style",
+    "sheets",
+    "CSS",
+    "css"
+  ],
+  "author": "PRITAMSTECH",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.6",
+    "vite": "^5.3.4"
+  }
+}

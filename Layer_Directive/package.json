@@ -1,0 +1,35 @@
+{
+  "name": "layer_directive",
+  "version": "1.0.0",
+  "description": "This is about exploring Layer Directive In Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "keywords": [
+    "Tailwind",
+    "tailwind",
+    "Tailwind",
+    "CSS",
+    "tailwind",
+    "css",
+    "tailwind",
+    "CSS",
+    "Tailwind",
+    "css",
+    "CSS",
+    "css",
+    "Cascading",
+    "Style",
+    "Sheets",
+    "cascading",
+    "style",
+    "sheets",
+    "layer",
+    "directive",
+    "Layer",
+    "Directive"
+  ],
+  "author": "PRITAMSTECH",
+  "license": "ISC"
+}
